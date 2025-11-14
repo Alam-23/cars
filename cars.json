@@ -1,0 +1,94 @@
+{
+  "result": [
+    {
+      "id": "1",
+      "brand": "Toyota",
+      "model": "GR Supra",
+      "year": "2021",
+      "engine": "3.0L Twin-Turbo",
+      "price": "Rp 2.150.000.000",
+      "photo": "https://images.unsplash.com/photo-1743308298784-ba0b26dbfac7?ixlib=rb-4.1.0&auto=format&fit=crop&…"
+    },
+    {
+      "id": "2",
+      "brand": "Honda",
+      "model": "Civic Type R",
+      "year": "2022",
+      "engine": "2.0L VTEC Turbo",
+      "price": "Rp 1.150.000.000",
+      "photo": "https://images.unsplash.com/photo-1689988833264-a52ca57fa88c?ixlib=rb-4.1.0&auto=format&fit=crop&w=1080&q=80"
+    },
+    {
+      "id": "3",
+      "brand": "Mitsubishi",
+      "model": "Lancer Evolution X",
+      "year": "2015",
+      "engine": "2.0L Turbocharged",
+      "price": "Rp 900.000.000",
+      "photo": "https://i.imgur.com/cFCcNJF.jpg"
+    },
+    {
+      "id": "4",
+      "brand": "Nissan",
+      "model": "GT-R R35",
+      "year": "2020",
+      "engine": "3.8L Twin-Turbo V6",
+      "price": "Rp 4.500.000.000",
+      "photo": "https://i.imgur.com/6Aqv2yJ.jpg"
+    },
+    {
+      "id": "5",
+      "brand": "BMW",
+      "model": "M4 Competition",
+      "year": "2021",
+      "engine": "3.0L Twin-Turbo",
+      "price": "Rp 2.300.000.000",
+      "photo": "https://i.imgur.com/S2u8tDf.jpg"
+    },
+    {
+      "id": "6",
+      "brand": "Mercedes-Benz",
+      "model": "AMG C63",
+      "year": "2020",
+      "engine": "4.0L Twin-Turbo V8",
+      "price": "Rp 2.800.000.000",
+      "photo": "https://i.imgur.com/d1XRh4A.jpg"
+    },
+    {
+      "id": "7",
+      "brand": "Mazda",
+      "model": "RX-7 FD",
+      "year": "2002",
+      "engine": "1.3L Rotary Twin-Turbo",
+      "price": "Rp 1.200.000.000",
+      "photo": "https://i.imgur.com/ijR1iJT.jpg"
+    },
+    {
+      "id": "8",
+      "brand": "Subaru",
+      "model": "WRX STI",
+      "year": "2019",
+      "engine": "2.5L Turbocharged Boxer",
+      "price": "Rp 1.000.000.000",
+      "photo": "https://i.imgur.com/VLU5K4t.jpg"
+    },
+    {
+      "id": "9",
+      "brand": "Ford",
+      "model": "Mustang GT",
+      "year": "2021",
+      "engine": "5.0L V8",
+      "price": "Rp 1.600.000.000",
+      "photo": "https://i.imgur.com/vw5Dw8t.jpg"
+    },
+    {
+      "id": "10",
+      "brand": "Audi",
+      "model": "RS5",
+      "year": "2020",
+      "engine": "2.9L Twin-Turbo V6",
+      "price": "Rp 2.700.000.000",
+      "photo": "https://i.imgur.com/vIqvVzB.jpg"
+    }
+  ]
+}
